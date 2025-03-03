@@ -1,0 +1,345 @@
+{
+  "users": [
+    {
+      "nombreUsuario": "Joshep",
+      "correoUsuario": "jbarboza@gmail.com",
+      "claveUsuario": "1234",
+      "rolUsuario": "admin",
+      "id": "6e97"
+    },
+    {
+      "id": "b73c",
+      "nombreUsuario": "Pepe",
+      "claveUsuario": "1234",
+      "correoUsuario": "pepe@gmail.com",
+      "rolUsuario": "estudiante"
+    },
+    {
+      "id": "9bf0",
+      "nombreUsuario": "jb",
+      "claveUsuario": "12345678910",
+      "correoUsuario": "jb2344@gmail.com",
+      "rolUsuario": "estudiante"
+    },
+    {
+      "id": "825d",
+      "nombreUsuario": "jb",
+      "claveUsuario": "hgg",
+      "correoUsuario": "jb2344@gmail.com",
+      "rolUsuario": "estudiante"
+    },
+    {
+      "id": "f234",
+      "nombreUsuario": "bs",
+      "claveUsuario": "12345",
+      "correoUsuario": "bs@gmail.com",
+      "rolUsuario": "estudiante"
+    },
+    {
+      "id": "aa70",
+      "nombreUsuario": "barry vega",
+      "claveUsuario": "12345",
+      "correoUsuario": "barryvega12@gmail.com",
+      "rolUsuario": "estudiante"
+    },
+    {
+      "id": "8e41",
+      "nombreUsuario": "Haroldpp",
+      "claveUsuario": "12345678ww",
+      "correoUsuario": "dxlolxd321@gmail.com",
+      "rolUsuario": "estudiante"
+    },
+    {
+      "id": "ec57",
+      "nombreUsuario": "salas",
+      "claveUsuario": "1234",
+      "correoUsuario": "salas@gmail.com",
+      "rolUsuario": "estudiante"
+    },
+    {
+      "id": "0a6b",
+      "nombreUsuario": "Abraham Alfaro",
+      "claveUsuario": "12345678ww",
+      "correoUsuario": "dxlolxd321@gmail.com",
+      "rolUsuario": "estudiante"
+    }
+  ],
+  "consultas": [
+    {
+      "id": "af20",
+      "nombreEstudiante": "abc",
+      "correoEstudiante": "abc",
+      "horaConsulta": "15:31",
+      "fechaConsulta": "27/1/2025"
+    },
+    {
+      "id": "7fa7",
+      "nombreEstudiante": "abc",
+      "correoEstudiante": "abc",
+      "horaConsulta": "15:32",
+      "fechaConsulta": "27/1/2025"
+    },
+    {
+      "id": "c4f5",
+      "nombreEstudiante": "abc",
+      "correoEstudiante": "jb2344@gmail.com",
+      "horaConsulta": "15:32",
+      "fechaConsulta": "27/1/2025"
+    },
+    {
+      "id": "d68d",
+      "nombreEstudiante": "abc",
+      "correoEstudiante": "jb2344@gmail.com",
+      "horaConsulta": "15:35",
+      "fechaConsulta": "27/1/2025"
+    },
+    {
+      "id": "c7e4",
+      "nombreEstudiante": "fv c",
+      "correoEstudiante": "gh",
+      "horaConsulta": "15:35",
+      "fechaConsulta": "27/1/2025"
+    },
+    {
+      "id": "0905",
+      "nombreEstudiante": "tgtyt",
+      "correoEstudiante": "gggbb",
+      "horaConsulta": "15:36",
+      "fechaConsulta": "27/1/2025"
+    },
+    {
+      "id": "fe58",
+      "nombreEstudiante": "vv",
+      "correoEstudiante": "ffhn",
+      "horaConsulta": "15:36",
+      "fechaConsulta": "27/1/2025"
+    },
+    {
+      "id": "cd63",
+      "nombreEstudiante": "jb",
+      "correoEstudiante": "vgvvv",
+      "horaConsulta": "15:41",
+      "fechaConsulta": "27/1/2025"
+    },
+    {
+      "id": "7f34",
+      "nombreEstudiante": "jujuju",
+      "correoEstudiante": "uuu",
+      "horaConsulta": "15:41",
+      "fechaConsulta": "27/1/2025"
+    },
+    {
+      "id": "afdf",
+      "nombreEstudiante": "jjjj",
+      "correoEstudiante": "jjj",
+      "horaConsulta": "15:41",
+      "fechaConsulta": "27/1/2025"
+    },
+    {
+      "id": "8532",
+      "nombreEstudiante": "vv",
+      "correoEstudiante": "vvv",
+      "horaConsulta": "15:41",
+      "fechaConsulta": "27/1/2025"
+    },
+    {
+      "id": "259e",
+      "nombreEstudiante": "xcccc",
+      "correoEstudiante": "cc",
+      "horaConsulta": "15:42",
+      "fechaConsulta": "27/1/2025"
+    },
+    {
+      "id": "88ce",
+      "nombreEstudiante": "xcccc",
+      "correoEstudiante": "cc",
+      "horaConsulta": "15:42",
+      "fechaConsulta": "27/1/2025"
+    },
+    {
+      "id": "6c91",
+      "nombreEstudiante": "vf",
+      "correoEstudiante": "ccc",
+      "horaConsulta": "15:44",
+      "fechaConsulta": "27/1/2025"
+    },
+    {
+      "id": "6853",
+      "nombreEstudiante": "gg",
+      "correoEstudiante": ",",
+      "horaConsulta": "15:44",
+      "fechaConsulta": "27/1/2025"
+    },
+    {
+      "id": "b357",
+      "nombreEstudiante": "vvvv",
+      "correoEstudiante": "ccc",
+      "horaConsulta": "15:48",
+      "fechaConsulta": "27/1/2025"
+    },
+    {
+      "id": "85ee",
+      "nombreEstudiante": "c",
+      "correoEstudiante": "xdd",
+      "horaConsulta": "15:51",
+      "fechaConsulta": "27/1/2025"
+    },
+    {
+      "id": "4d54",
+      "nombreEstudiante": "dd",
+      "correoEstudiante": "gvgvv b",
+      "horaConsulta": "15:53",
+      "fechaConsulta": "27/1/2025"
+    },
+    {
+      "id": "6693",
+      "nombreEstudiante": "barry vega",
+      "correoEstudiante": "barryvega12@gmail.com",
+      "horaConsulta": "10:7",
+      "fechaConsulta": "28/1/2025"
+    },
+    {
+      "id": "6c4f",
+      "nombreEstudiante": "xcccc",
+      "correoEstudiante": "barryvega12@gmail.com",
+      "horaConsulta": "10:23",
+      "fechaConsulta": "28/1/2025"
+    },
+    {
+      "id": "9a1a",
+      "nombreEstudiante": "jb",
+      "correoEstudiante": "jb2344@gmail.com",
+      "horaConsulta": "10:25",
+      "fechaConsulta": "28/1/2025"
+    },
+    {
+      "id": "079b",
+      "nombreEstudiante": "bfcfbc",
+      "correoEstudiante": "bs@gmail.com",
+      "horaConsulta": "10:27",
+      "fechaConsulta": "28/1/2025"
+    },
+    {
+      "id": "d87a",
+      "nombreEstudiante": "cfnbh",
+      "correoEstudiante": "vgnvgn",
+      "horaConsulta": "10:29",
+      "fechaConsulta": "28/1/2025"
+    },
+    {
+      "id": "d5dc",
+      "nombreEstudiante": "cfnbh",
+      "correoEstudiante": "vgnvgn",
+      "horaConsulta": "10:31",
+      "fechaConsulta": "28/1/2025"
+    },
+    {
+      "id": "7636",
+      "nombreEstudiante": "haroldpp",
+      "correoEstudiante": "dxlolxd321@gmail.com",
+      "horaConsulta": "10:48",
+      "fechaConsulta": "28/1/2025"
+    },
+    {
+      "id": "28d6",
+      "nombreEstudiante": "haroldpp",
+      "correoEstudiante": "dxlolxd321@gmail.com",
+      "horaConsulta": "10:48",
+      "fechaConsulta": "28/1/2025"
+    },
+    {
+      "id": "e7b3",
+      "nombreEstudiante": "salas",
+      "correoEstudiante": "salas@gmail.com",
+      "horaConsulta": "13:11",
+      "fechaConsulta": "28/1/2025"
+    },
+    {
+      "id": "3cd4",
+      "nombreEstudiante": "salas",
+      "correoEstudiante": "salas@gmail.com",
+      "horaConsulta": "13:11",
+      "fechaConsulta": "28/1/2025"
+    },
+    {
+      "id": "2e44",
+      "nombreEstudiante": "salas",
+      "correoEstudiante": "salas@gmail.com",
+      "horaConsulta": "13:11",
+      "fechaConsulta": "28/1/2025"
+    },
+    {
+      "id": "fbfe",
+      "nombreEstudiante": "salas",
+      "correoEstudiante": "salas@gmail.com",
+      "horaConsulta": "13:11",
+      "fechaConsulta": "28/1/2025"
+    },
+    {
+      "id": "d244",
+      "nombreEstudiante": "salas",
+      "correoEstudiante": "salas@gmail.com",
+      "horaConsulta": "13:11",
+      "fechaConsulta": "28/1/2025"
+    },
+    {
+      "id": "0867",
+      "nombreEstudiante": "salas",
+      "correoEstudiante": "kmnknkl@gmail.com",
+      "horaConsulta": "13:11",
+      "fechaConsulta": "28/1/2025"
+    },
+    {
+      "id": "d089",
+      "nombreEstudiante": "salas",
+      "correoEstudiante": "kmnknkl@gmail.com",
+      "horaConsulta": "13:11",
+      "fechaConsulta": "28/1/2025"
+    },
+    {
+      "id": "782e",
+      "nombreEstudiante": "Abraham Alfaro",
+      "correoEstudiante": "kmnknkl@gmail.com",
+      "horaConsulta": "15:7",
+      "fechaConsulta": "1/2/2025"
+    },
+    {
+      "id": "709e",
+      "nombreEstudiante": "aaa",
+      "correoEstudiante": "jb2344@gmail.com",
+      "horaConsulta": "11:19",
+      "fechaConsulta": "3/2/2025"
+    },
+    {
+      "id": "42bc",
+      "nombreEstudiante": "aaa",
+      "correoEstudiante": "jb2344@gmail.com",
+      "horaConsulta": "11:19",
+      "fechaConsulta": "3/2/2025"
+    },
+    {
+      "id": "538a",
+      "nombreEstudiante": "jb",
+      "correoEstudiante": "jb2344@gmail.com",
+      "consultas": "123",
+      "horaConsulta": "11:43",
+      "fechaConsulta": "3/2/2025"
+    },
+    {
+      "id": "d404",
+      "nombreEstudiante": "jb",
+      "correoEstudiante": "jb2344@gmail.com",
+      "consultas": "123",
+      "horaConsulta": "11:43",
+      "fechaConsulta": "3/2/2025"
+    },
+    {
+      "id": "e093",
+      "nombreEstudiante": "jb",
+      "correoEstudiante": "jb2344@gmail.com",
+      "consultas": "123",
+      "horaConsulta": "11:43",
+      "fechaConsulta": "3/2/2025"
+    }
+  ]
+}
